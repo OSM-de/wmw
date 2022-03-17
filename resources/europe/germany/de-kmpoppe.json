@@ -1,0 +1,11 @@
+{
+  "id": "de-kmpoppe",
+  "type": "url",
+  "locationSet": {"include": ["de-kmpoppe.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "kmpoppe on osm.org",
+    "description": "OpenStreetMap Profile for kmpoppe",
+    "url": "https://osm.org/user/kmpoppe"
+  }
+}

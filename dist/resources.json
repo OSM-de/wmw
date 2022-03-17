@@ -1,0 +1,7 @@
+{
+  "_meta": {
+    "version": "1.0.0",
+    "generated": "2022-03-17T20:32:04.373Z",
+    "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/resources.json",
+    "hash": "f6e5d0bdd52713e58bbf7be686373261"
+  },"resources": {"de-kmpoppe": {"id": "de-kmpoppe", "type": "url", "locationSet": {"include": ["de-kmpoppe.geojson"]}, "languageCodes": ["de", "en"], "strings": {"name": "kmpoppe on osm.org", "description": "OpenStreetMap Profile for kmpoppe", "url": "https://osm.org/user/kmpoppe"}}}}
