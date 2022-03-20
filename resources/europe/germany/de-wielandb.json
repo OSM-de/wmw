@@ -1,0 +1,13 @@
+{
+  "id": "de-wielandb",
+  "type": "osm",
+  "locationSet": {
+    "include": ["de-wielandb.geojson", "de-wielandb-2.geojson"]
+  },
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "wielandb on osm.org",
+    "description": "OpenStreetMap Profile for wielandb",
+    "url": "https://osm.org/user/wielandb"
+  }
+}
