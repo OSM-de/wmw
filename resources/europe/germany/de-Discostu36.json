@@ -1,0 +1,11 @@
+{
+  "id": "de-Supaplex030",
+  "type": "osm",
+  "locationSet": {"include": ["de-Discostu36.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "Discostu36 on osm.org",
+    "description": "OpenStreetMap Profile for Discostu36",
+    "url": "https://osm.org/user/Discostu36"
+  }
+}
