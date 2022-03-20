@@ -156,7 +156,7 @@ function serveClick(ePoint, eLatLng) {
     var iconURL = cdnBase + 'img/' + community.type + '.svg';
     var url = community.url || community.resolved.url;
     var name = community.name || community.resolved.name;
-    var properName = name.charAt(0).toUpperCase() + name.slice(1);  // capitalize
+    var properName = name // don't capitalize usernames
 
     inner += '<div class="resource">'
       + '<img class="icon" src="' + iconURL + '"/>'
