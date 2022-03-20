@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-03-20T08:53:29.688Z",
+    "generated": "2022-03-20T08:58:35.151Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "79b412adfe0e433b000da7642a4277eb"
+    "hash": "21bbbfc429ad82225c0965f5414e9a3c"
   },
   "type": "FeatureCollection",
   "features": [
@@ -94,14 +94,14 @@
             "strings": {
               "name": "Ygramul on osm.org",
               "description": "OpenStreetMap Profile for Ygramul",
-              "url": "https://osm.org/user/ygramul"
+              "url": "https://osm.org/user/Ygramul"
             },
             "resolved": {
               "name": "Ygramul on osm.org",
-              "url": "https://osm.org/user/ygramul",
+              "url": "https://osm.org/user/Ygramul",
               "description": "OpenStreetMap Profile for Ygramul",
-              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/ygramul\">Ygramul on osm.org</a>",
-              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/ygramul\">https://osm.org/user/ygramul</a>",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/Ygramul\">Ygramul on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/Ygramul\">https://osm.org/user/Ygramul</a>",
               "descriptionHTML": "OpenStreetMap Profile for Ygramul"
             }
           }
