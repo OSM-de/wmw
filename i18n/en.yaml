@@ -4,9 +4,21 @@ en:
   de-kmpoppe:
     name: kmpoppe on osm.org
     description: OpenStreetMap Profile for kmpoppe
+  de-Supaplex030:
+    name: Supaplex030 on osm.org
+    description: OpenStreetMap Profile for Supaplex030
+  de-takhadnotor:
+    name: takhadnotor on osm.org
+    description: OpenStreetMap Profile for takhadnotor
+  de-wielandb:
+    name: wielandb on osm.org
+    description: OpenStreetMap Profile for wielandb
   de-ygramul:
     name: Ygramul on osm.org
     description: OpenStreetMap Profile for Ygramul
   de-zaunhaenger:
     name: Zaunhänger on osm.org
     description: OpenStreetMap Profile for Zaunhänger
+  us-bhousel:
+    name: bhousel on osm.org
+    description: OpenStreetMap Profile for bhousel
