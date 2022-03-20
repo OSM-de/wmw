@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-03-17T20:32:09.608Z",
+    "generated": "2022-03-20T07:49:23.349Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "817a2be57a97b366a7d0a3e32fab0204"
+    "hash": "01440a53d75d01164c45081a57e1c205"
   },
   "type": "FeatureCollection",
   "features": [
@@ -75,6 +75,54 @@
             [8.67027, 53.10598],
             [8.60161, 53.17024],
             [8.75679, 53.20398]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de-ygramul.geojson",
+      "properties": {
+        "id": "de-ygramul.geojson",
+        "area": 32.33,
+        "resources": {
+          "de-ygramul": {
+            "id": "de-ygramul",
+            "type": "url",
+            "locationSet": {"include": ["de-ygramul.geojson"]},
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "ygramul on osm.org",
+              "description": "OpenStreetMap Profile for ygramul",
+              "url": "https://osm.org/user/ygramul"
+            },
+            "resolved": {
+              "name": "ygramul on osm.org",
+              "url": "https://osm.org/user/ygramul",
+              "description": "OpenStreetMap Profile for ygramul",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/ygramul\">ygramul on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/ygramul\">https://osm.org/user/ygramul</a>",
+              "descriptionHTML": "OpenStreetMap Profile for ygramul"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.08552, 48.53855],
+            [9.08157, 48.50751],
+            [9.06578, 48.50842],
+            [9.06681, 48.49989],
+            [9.02802, 48.48817],
+            [8.98596, 48.49454],
+            [8.97806, 48.51569],
+            [8.99797, 48.52149],
+            [9.01737, 48.52411],
+            [9.04278, 48.5448],
+            [9.06647, 48.5473],
+            [9.08552, 48.53855]
           ]
         ]
       }
