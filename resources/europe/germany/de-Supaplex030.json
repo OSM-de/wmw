@@ -1,0 +1,11 @@
+{
+  "id": "de-Supaplex030",
+  "type": "osm",
+  "locationSet": {"include": ["de-Supaplex030.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "Supaplex030 on osm.org",
+    "description": "OpenStreetMap Profile for Supaplex030",
+    "url": "https://osm.org/user/Supaplex030"
+  }
+}
