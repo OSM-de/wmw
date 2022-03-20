@@ -1,0 +1,11 @@
+{
+  "id": "de-takhadnotor",
+  "type": "osm",
+  "locationSet": {"include": ["de-takhadnotor.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "takhadnotor on osm.org",
+    "description": "OpenStreetMap Profile for takhadnotor",
+    "url": "https://osm.org/user/takhadnotor"
+  }
+}
