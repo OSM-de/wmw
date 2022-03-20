@@ -1,6 +1,6 @@
 {
   "id": "de-kmpoppe",
-  "type": "url",
+  "type": "osm",
   "locationSet": {"include": ["de-kmpoppe.geojson"]},
   "languageCodes": ["de", "en"],
   "strings": {

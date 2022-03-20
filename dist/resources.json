@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-03-20T07:48:54.789Z",
+    "generated": "2022-03-20T08:53:28.308Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/resources.json",
-    "hash": "f55daaa48a5f7d1536eba9dcdddbff14"
-  },"resources": {"de-kmpoppe": {"id": "de-kmpoppe", "type": "url", "locationSet": {"include": ["de-kmpoppe.geojson"]}, "languageCodes": ["de", "en"], "strings": {"name": "kmpoppe on osm.org", "description": "OpenStreetMap Profile for kmpoppe", "url": "https://osm.org/user/kmpoppe"}}, "de-ygramul": {"id": "de-ygramul", "type": "url", "locationSet": {"include": ["de-ygramul.geojson"]}, "languageCodes": ["de", "en"], "strings": {"name": "ygramul on osm.org", "description": "OpenStreetMap Profile for ygramul", "url": "https://osm.org/user/ygramul"}}}}
+    "hash": "eea485e4e178c68e6f9da1bad06813e3"
+  },"resources": {"de-kmpoppe": {"id": "de-kmpoppe", "type": "osm", "locationSet": {"include": ["de-kmpoppe.geojson"]}, "languageCodes": ["de", "en"], "strings": {"name": "kmpoppe on osm.org", "description": "OpenStreetMap Profile for kmpoppe", "url": "https://osm.org/user/kmpoppe"}}, "de-ygramul": {"id": "de-ygramul", "type": "osm", "locationSet": {"include": ["de-ygramul.geojson"]}, "languageCodes": ["de", "en"], "strings": {"name": "Ygramul on osm.org", "description": "OpenStreetMap Profile for Ygramul", "url": "https://osm.org/user/ygramul"}}}}

@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-03-20T07:49:23.349Z",
+    "generated": "2022-03-20T08:53:29.688Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "01440a53d75d01164c45081a57e1c205"
+    "hash": "79b412adfe0e433b000da7642a4277eb"
   },
   "type": "FeatureCollection",
   "features": [
@@ -16,7 +16,7 @@
         "resources": {
           "de-kmpoppe": {
             "id": "de-kmpoppe",
-            "type": "url",
+            "type": "osm",
             "locationSet": {"include": ["de-kmpoppe.geojson"]},
             "languageCodes": ["de", "en"],
             "strings": {
@@ -88,21 +88,21 @@
         "resources": {
           "de-ygramul": {
             "id": "de-ygramul",
-            "type": "url",
+            "type": "osm",
             "locationSet": {"include": ["de-ygramul.geojson"]},
             "languageCodes": ["de", "en"],
             "strings": {
-              "name": "ygramul on osm.org",
-              "description": "OpenStreetMap Profile for ygramul",
+              "name": "Ygramul on osm.org",
+              "description": "OpenStreetMap Profile for Ygramul",
               "url": "https://osm.org/user/ygramul"
             },
             "resolved": {
-              "name": "ygramul on osm.org",
+              "name": "Ygramul on osm.org",
               "url": "https://osm.org/user/ygramul",
-              "description": "OpenStreetMap Profile for ygramul",
-              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/ygramul\">ygramul on osm.org</a>",
+              "description": "OpenStreetMap Profile for Ygramul",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/ygramul\">Ygramul on osm.org</a>",
               "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/ygramul\">https://osm.org/user/ygramul</a>",
-              "descriptionHTML": "OpenStreetMap Profile for ygramul"
+              "descriptionHTML": "OpenStreetMap Profile for Ygramul"
             }
           }
         }

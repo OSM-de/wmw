@@ -155,7 +155,9 @@ function serveClick(ePoint, eLatLng) {
   var inner = '';
   communities.forEach(function(c) {
     var community = c.community;
-    var iconURL = cdnBase + 'img/' + community.type + '.svg';
+    // Use iconURL from JSDelivr but with a specific hash until the cache updates
+    var iconURL = 'https://cdn.jsdelivr.net/gh/osm-de/wmw@4732d1a26c29dfd806cdadbbaded054ff285a71b/dist/img/' + community.type + '.svg';
+    // var iconURL = cdnBase + 'img/' + community.type + '.svg';
     var url = community.url || community.resolved.url;
     var name = community.name || community.resolved.name;
     var properName = name // don't capitalize usernames

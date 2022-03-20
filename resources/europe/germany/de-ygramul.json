@@ -1,11 +1,11 @@
 {
   "id": "de-ygramul",
-  "type": "url",
+  "type": "osm",
   "locationSet": {"include": ["de-ygramul.geojson"]},
   "languageCodes": ["de", "en"],
   "strings": {
-    "name": "ygramul on osm.org",
-    "description": "OpenStreetMap Profile for ygramul",
+    "name": "Ygramul on osm.org",
+    "description": "OpenStreetMap Profile for Ygramul",
     "url": "https://osm.org/user/ygramul"
   }
 }
