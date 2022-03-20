@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-03-20T08:58:35.151Z",
+    "generated": "2022-03-20T09:03:36.478Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "21bbbfc429ad82225c0965f5414e9a3c"
+    "hash": "3d4c1a60a74e0645afbbe2407c94d9fc"
   },
   "type": "FeatureCollection",
   "features": [
@@ -123,6 +123,50 @@
             [9.04278, 48.5448],
             [9.06647, 48.5473],
             [9.08552, 48.53855]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de-zaunhaenger.geojson",
+      "properties": {
+        "id": "de-zaunhaenger.geojson",
+        "area": 304.49,
+        "resources": {
+          "de-zaunhaenger": {
+            "id": "de-zaunhaenger",
+            "type": "osm",
+            "locationSet": {"include": ["de-zaunhaenger.geojson"]},
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "Zaunhänger on osm.org",
+              "description": "OpenStreetMap Profile for Zaunhänger",
+              "url": "https://osm.org/user/Zaunhänger"
+            },
+            "resolved": {
+              "name": "Zaunhänger on osm.org",
+              "url": "https://osm.org/user/Zaunhänger",
+              "description": "OpenStreetMap Profile for Zaunhänger",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/Zaunhänger\">Zaunhänger on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/Zaunhänger\">https://osm.org/user/Zaunhänger</a>",
+              "descriptionHTML": "OpenStreetMap Profile for Zaunhänger"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.22577, 52.65889],
+            [9.24637, 52.6389],
+            [9.15161, 52.48111],
+            [8.97858, 52.42587],
+            [8.89069, 52.44011],
+            [9.05273, 52.61305],
+            [9.16809, 52.65806],
+            [9.22577, 52.65889]
           ]
         ]
       }

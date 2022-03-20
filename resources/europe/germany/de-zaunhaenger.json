@@ -1,0 +1,11 @@
+{
+  "id": "de-zaunhaenger",
+  "type": "osm",
+  "locationSet": {"include": ["de-zaunhaenger.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "Zaunhänger on osm.org",
+    "description": "OpenStreetMap Profile for Zaunhänger",
+    "url": "https://osm.org/user/Zaunhänger"
+  }
+}

@@ -7,3 +7,6 @@ en:
   de-ygramul:
     name: Ygramul on osm.org
     description: OpenStreetMap Profile for Ygramul
+  de-zaunhaenger:
+    name: Zaunhänger on osm.org
+    description: OpenStreetMap Profile for Zaunhänger
