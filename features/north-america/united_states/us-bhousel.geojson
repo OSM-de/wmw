@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "us-bhousel.geojson",
+  "properties": {},
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [[-75, 40], [-75, 41.2], [-74, 41.2], [-74, 40], [-75, 40]]
+    ]
+  }
+}

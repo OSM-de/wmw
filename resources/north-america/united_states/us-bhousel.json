@@ -1,0 +1,11 @@
+{
+  "id": "us-bhousel",
+  "type": "osm",
+  "locationSet": {"include": ["us-bhousel.geojson"]},
+  "languageCodes": ["en"],
+  "strings": {
+    "name": "bhousel on osm.org",
+    "description": "OpenStreetMap Profile for bhousel",
+    "url": "https://osm.org/user/bhousel"
+  }
+}
