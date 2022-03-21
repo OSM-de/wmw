@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-03-21T06:03:07.039Z",
+    "generated": "2022-03-21T16:32:08.710Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "145566f5ea697388fcd91d90afbcb7be"
+    "hash": "03807d2c72aa077203e2122582aae455"
   },
   "type": "FeatureCollection",
   "features": [
@@ -413,6 +413,56 @@
             [9.05273, 52.61305],
             [9.16809, 52.65806],
             [9.22577, 52.65889]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "uk-cjmalone.geojson",
+      "properties": {
+        "id": "uk-cjmalone.geojson",
+        "area": 474.5,
+        "resources": {
+          "uk-CjMalone": {
+            "id": "uk-CjMalone",
+            "type": "osm",
+            "locationSet": {"include": ["uk-CjMalone.geojson"]},
+            "languageCodes": ["en"],
+            "strings": {
+              "name": "CjMalone on osm.org",
+              "description": "OpenStreetMap Profile for CjMalone",
+              "url": "https://osm.org/user/CjMalone"
+            },
+            "resolved": {
+              "name": "CjMalone on osm.org",
+              "url": "https://osm.org/user/CjMalone",
+              "description": "OpenStreetMap Profile for CjMalone",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/CjMalone\">CjMalone on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/CjMalone\">https://osm.org/user/CjMalone</a>",
+              "descriptionHTML": "OpenStreetMap Profile for CjMalone"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.30806, 50.77164],
+            [-1.26686, 50.77121],
+            [-1.20781, 50.74124],
+            [-1.15837, 50.74037],
+            [-1.0952, 50.72472],
+            [-1.05949, 50.68645],
+            [-1.09314, 50.66208],
+            [-1.15768, 50.64206],
+            [-1.17073, 50.59501],
+            [-1.29295, 50.56449],
+            [-1.51131, 50.66252],
+            [-1.59233, 50.65817],
+            [-1.53122, 50.7095],
+            [-1.30806, 50.77164]
           ]
         ]
       }

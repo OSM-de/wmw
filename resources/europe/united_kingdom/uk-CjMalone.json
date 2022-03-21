@@ -1,0 +1,11 @@
+{
+  "id": "uk-CjMalone",
+  "type": "osm",
+  "locationSet": {"include": ["uk-CjMalone.geojson"]},
+  "languageCodes": ["en"],
+  "strings": {
+    "name": "CjMalone on osm.org",
+    "description": "OpenStreetMap Profile for CjMalone",
+    "url": "https://osm.org/user/CjMalone"
+  }
+}

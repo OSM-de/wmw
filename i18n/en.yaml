@@ -22,6 +22,9 @@ en:
   de-zaunhaenger:
     name: Zaunhänger on osm.org
     description: OpenStreetMap Profile for Zaunhänger
+  uk-CjMalone:
+    name: CjMalone on osm.org
+    description: OpenStreetMap Profile for CjMalone
   us-bhousel:
     name: bhousel on osm.org
     description: OpenStreetMap Profile for bhousel
