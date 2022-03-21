@@ -1,6 +1,9 @@
 en:
   _communities: {}
   _defaults: {}
+  de-Discostu36:
+    name: Discostu36 on osm.org
+    description: OpenStreetMap Profile for Discostu36
   de-kmpoppe:
     name: kmpoppe on osm.org
     description: OpenStreetMap Profile for kmpoppe

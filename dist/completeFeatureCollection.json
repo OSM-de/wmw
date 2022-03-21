@@ -1,12 +1,67 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-03-20T18:16:40.922Z",
+    "generated": "2022-03-21T06:03:07.039Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "59d5af1f634949f726bb3d57e587cebf"
+    "hash": "145566f5ea697388fcd91d90afbcb7be"
   },
   "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Feature",
+      "id": "de-discostu36.geojson",
+      "properties": {
+        "id": "de-discostu36.geojson",
+        "area": 199.93,
+        "resources": {
+          "de-Discostu36": {
+            "id": "de-Discostu36",
+            "type": "osm",
+            "locationSet": {"include": ["de-Discostu36.geojson"]},
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "Discostu36 on osm.org",
+              "description": "OpenStreetMap Profile for Discostu36",
+              "url": "https://osm.org/user/Discostu36"
+            },
+            "resolved": {
+              "name": "Discostu36 on osm.org",
+              "url": "https://osm.org/user/Discostu36",
+              "description": "OpenStreetMap Profile for Discostu36",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/Discostu36\">Discostu36 on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/Discostu36\">https://osm.org/user/Discostu36</a>",
+              "descriptionHTML": "OpenStreetMap Profile for Discostu36"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.1651, 54.42952],
+            [10.3105, 54.4385],
+            [10.38208, 54.43331],
+            [10.42654, 54.41234],
+            [10.27634, 54.37946],
+            [10.242, 54.37136],
+            [10.22398, 54.34805],
+            [10.20681, 54.33034],
+            [10.18003, 54.31492],
+            [10.2626, 54.28928],
+            [10.24389, 54.27755],
+            [10.14484, 54.29399],
+            [10.06451, 54.25058],
+            [10.02983, 54.257],
+            [10.05936, 54.33034],
+            [10.09266, 54.33574],
+            [10.12047, 54.37356],
+            [10.1469, 54.39215],
+            [10.1651, 54.42952]
+          ]
+        ]
+      }
+    },
     {
       "type": "Feature",
       "id": "de-kmpoppe.geojson",
