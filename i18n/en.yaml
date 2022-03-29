@@ -22,6 +22,9 @@ en:
   de-zaunhaenger:
     name: Zaunhänger on osm.org
     description: OpenStreetMap Profile for Zaunhänger
+  fr-Lejun:
+    name: Lejun on osm.org
+    description: OpenStreetMap Profile for Lejun
   uk-CjMalone:
     name: CjMalone on osm.org
     description: OpenStreetMap Profile for CjMalone

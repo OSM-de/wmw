@@ -1,0 +1,11 @@
+{
+  "id": "fr-Lejun",
+  "type": "osm",
+  "locationSet": {"include": ["fr-Lejun.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "Lejun on osm.org",
+    "description": "OpenStreetMap Profile for Lejun",
+    "url": "https://osm.org/user/Lejun"
+  }
+}
