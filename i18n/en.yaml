@@ -25,6 +25,9 @@ en:
   de-zaunhaenger:
     name: Zaunhänger on osm.org
     description: OpenStreetMap Profile for Zaunhänger
+  en-endim8:
+    name: endim8 on osm.org
+    description: OpenStreetMap Profile for endim8
   fr-Lejun:
     name: Lejun on osm.org
     description: OpenStreetMap Profile for Lejun

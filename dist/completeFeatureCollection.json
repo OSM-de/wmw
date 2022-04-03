@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-04-03T16:06:57.053Z",
+    "generated": "2022-04-03T17:18:19.668Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "0445db55d449ad7b05a443e4d1670fb0"
+    "hash": "d594e7dff9077ee315817f6672940ba0"
   },
   "type": "FeatureCollection",
   "features": [
@@ -457,6 +457,71 @@
             [9.05273, 52.61305],
             [9.16809, 52.65806],
             [9.22577, 52.65889]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "en-endim8.geojson",
+      "properties": {
+        "id": "en-endim8.geojson",
+        "area": 21.76,
+        "resources": {
+          "en-endim8": {
+            "id": "en-endim8",
+            "type": "osm",
+            "locationSet": {"include": ["en-endim8.geojson"]},
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "endim8 on osm.org",
+              "description": "OpenStreetMap Profile for endim8",
+              "url": "https://osm.org/user/endim8"
+            },
+            "resolved": {
+              "name": "endim8 on osm.org",
+              "url": "https://osm.org/user/endim8",
+              "description": "OpenStreetMap Profile for endim8",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/endim8\">endim8 on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/endim8\">https://osm.org/user/endim8</a>",
+              "descriptionHTML": "OpenStreetMap Profile for endim8"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.04343, 51.49715],
+            [0.05493, 51.47048],
+            [0.03167, 51.45235],
+            [-0.01575, 51.4554],
+            [-0.0215, 51.46631],
+            [-0.02257, 51.47534],
+            [-0.01742, 51.47994],
+            [-0.01601, 51.48162],
+            [-0.01828, 51.48293],
+            [-0.0188, 51.48438],
+            [-0.01691, 51.48448],
+            [-0.01159, 51.48432],
+            [-0.00635, 51.48502],
+            [-0.00257, 51.48748],
+            [-0.00094, 51.4894],
+            [-0.00086, 51.49218],
+            [-0.00197, 51.49469],
+            [-0.00369, 51.49661],
+            [-0.00489, 51.49961],
+            [-0.00463, 51.50281],
+            [-0.00257, 51.50522],
+            [0.00189, 51.50634],
+            [0.00584, 51.50596],
+            [0.00944, 51.50372],
+            [0.01468, 51.49998],
+            [0.02008, 51.49731],
+            [0.02678, 51.49651],
+            [0.03596, 51.49688],
+            [0.04343, 51.49715]
           ]
         ]
       }
