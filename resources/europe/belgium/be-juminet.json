@@ -1,0 +1,11 @@
+{
+  "id": "be-juminet",
+  "type": "osm",
+  "locationSet": {"include": ["be-juminet.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "juminet on osm.org",
+    "description": "OpenStreetMap Profile for juminet",
+    "url": "https://osm.org/user/juminet"
+  }
+}
