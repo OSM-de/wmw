@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-04-03T18:32:16.597Z",
+    "generated": "2022-04-03T18:51:57.571Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "37cc048e849c0e51412f494a509eab4f"
+    "hash": "9b7fbc127022d841d0f9daaa300eaf97"
   },
   "type": "FeatureCollection",
   "features": [
@@ -212,6 +212,57 @@
         ]
       },
       "id": "+[de-heilbron-2.geojson,de-heilbron.geojson]"
+    },
+    {
+      "type": "Feature",
+      "id": "de-karthoo.geojson",
+      "properties": {
+        "id": "de-karthoo.geojson",
+        "area": 1543.71,
+        "resources": {
+          "de-Karthoo": {
+            "id": "de-Karthoo",
+            "type": "osm",
+            "locationSet": {"include": ["de-Karthoo.geojson"]},
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "Karthoo on osm.org",
+              "description": "OpenStreetMap Profile for Karthoo",
+              "url": "https://osm.org/user/Karthoo"
+            },
+            "resolved": {
+              "name": "Karthoo on osm.org",
+              "url": "https://osm.org/user/Karthoo",
+              "description": "OpenStreetMap Profile for Karthoo",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/Karthoo\">Karthoo on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/Karthoo\">https://osm.org/user/Karthoo</a>",
+              "descriptionHTML": "OpenStreetMap Profile for Karthoo"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.82295, 48.64244],
+            [7.89642, 48.75664],
+            [7.95925, 48.7856],
+            [8.10791, 48.83399],
+            [8.25485, 48.83128],
+            [8.35373, 48.80144],
+            [8.39905, 48.66104],
+            [8.2885, 48.44332],
+            [8.23563, 48.39319],
+            [8.12096, 48.41872],
+            [8.01178, 48.4711],
+            [7.91016, 48.47065],
+            [7.79274, 48.56161],
+            [7.79411, 48.60386],
+            [7.82295, 48.64244]
+          ]
+        ]
+      }
     },
     {
       "type": "Feature",

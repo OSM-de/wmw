@@ -1,0 +1,11 @@
+{
+  "id": "de-Karthoo",
+  "type": "osm",
+  "locationSet": {"include": ["de-Karthoo.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "Karthoo on osm.org",
+    "description": "OpenStreetMap Profile for Karthoo",
+    "url": "https://osm.org/user/Karthoo"
+  }
+}

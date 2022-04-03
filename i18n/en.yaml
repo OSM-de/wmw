@@ -13,6 +13,9 @@ en:
   de-heilbron:
     name: heilbron on osm.org
     description: OpenStreetMap Profile for heilbron
+  de-Karthoo:
+    name: Karthoo on osm.org
+    description: OpenStreetMap Profile for Karthoo
   de-kmpoppe:
     name: kmpoppe on osm.org
     description: OpenStreetMap Profile for kmpoppe
