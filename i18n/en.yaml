@@ -7,6 +7,9 @@ en:
   de-flo2154:
     name: flo2154 on osm.org
     description: OpenStreetMap Profile for flo2154
+  de-heilbron:
+    name: heilbron on osm.org
+    description: OpenStreetMap Profile for heilbron
   de-kmpoppe:
     name: kmpoppe on osm.org
     description: OpenStreetMap Profile for kmpoppe

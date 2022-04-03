@@ -1,11 +1,13 @@
 {
-    "id": "de-heilbron",
-    "type": "osm",
-    "locationSet": {"include": ["de-heilbron.geojson"]},
-    "languageCodes": ["de", "en"],
-    "strings": {
-      "name": "heilbron on osm.org",
-      "description": "OpenStreetMap Profile for heilbron",
-      "url": "https://osm.org/user/heilbron"
-    }
+  "id": "de-heilbron",
+  "type": "osm",
+  "locationSet": {
+    "include": ["de-heilbron.geojson", "de-heilbron-2.geojson"]
+  },
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "heilbron on osm.org",
+    "description": "OpenStreetMap Profile for heilbron",
+    "url": "https://osm.org/user/heilbron"
   }
+}
