@@ -1,0 +1,11 @@
+{
+    "id": "en-endim8",
+    "type": "osm",
+    "locationSet": {"include": ["en-endim8.geojson"]},
+    "languageCodes": ["de", "en"],
+    "strings": {
+      "name": "endim8 on osm.org",
+      "description": "OpenStreetMap Profile for endim8",
+      "url": "https://osm.org/user/endim8"
+    }
+  }
