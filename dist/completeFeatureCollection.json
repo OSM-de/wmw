@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-04-03T17:18:19.668Z",
+    "generated": "2022-04-03T18:09:42.328Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "d594e7dff9077ee315817f6672940ba0"
+    "hash": "7f3579c67750a5b729bf90134478512f"
   },
   "type": "FeatureCollection",
   "features": [
@@ -105,6 +105,69 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[de-heilbron-2.geojson,de-heilbron.geojson]",
+        "area": 25.25,
+        "resources": {
+          "de-heilbron": {
+            "id": "de-heilbron",
+            "type": "osm",
+            "locationSet": {
+              "include": ["de-heilbron.geojson", "de-heilbron-2.geojson"]
+            },
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "heilbron on osm.org",
+              "description": "OpenStreetMap Profile for heilbron",
+              "url": "https://osm.org/user/heilbron"
+            },
+            "resolved": {
+              "name": "heilbron on osm.org",
+              "url": "https://osm.org/user/heilbron",
+              "description": "OpenStreetMap Profile for heilbron",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/heilbron\">heilbron on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/heilbron\">https://osm.org/user/heilbron</a>",
+              "descriptionHTML": "OpenStreetMap Profile for heilbron"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [11.46449, 48.04814],
+              [11.51007, 48.04091],
+              [11.52886, 48.05886],
+              [11.53796, 48.06523],
+              [11.53702, 48.07963],
+              [11.54011, 48.09069],
+              [11.52637, 48.09236],
+              [11.52637, 48.10422],
+              [11.52157, 48.10164],
+              [11.51874, 48.0958],
+              [11.49367, 48.08972],
+              [11.4808, 48.08593],
+              [11.46449, 48.04814]
+            ]
+          ],
+          [
+            [
+              [11.56358, 48.19582],
+              [11.56646, 48.17516],
+              [11.57204, 48.17979],
+              [11.57504, 48.17988],
+              [11.57663, 48.19642],
+              [11.56358, 48.19582]
+            ]
+          ]
+        ]
+      },
+      "id": "+[de-heilbron-2.geojson,de-heilbron.geojson]"
     },
     {
       "type": "Feature",
