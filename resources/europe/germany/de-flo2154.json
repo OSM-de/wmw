@@ -1,11 +1,11 @@
 {
-    "id": "de-flo2154",
-    "type": "osm",
-    "locationSet": {"include": ["de-flo2154.geojson"]},
-    "languageCodes": ["de", "en"],
-    "strings": {
-      "name": "flo2154 on osm.org",
-      "description": "OpenStreetMap Profile for flo2154",
-      "url": "https://osm.org/user/flo2154"
-    }
+  "id": "de-flo2154",
+  "type": "osm",
+  "locationSet": {"include": ["de-flo2154.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "flo2154 on osm.org",
+    "description": "OpenStreetMap Profile for flo2154",
+    "url": "https://osm.org/user/flo2154"
   }
+}

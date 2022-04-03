@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-03-29T20:42:45.821Z",
+    "generated": "2022-04-03T16:06:57.053Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "630eb58e6efb9320b3f50d03f748bc44"
+    "hash": "0445db55d449ad7b05a443e4d1670fb0"
   },
   "type": "FeatureCollection",
   "features": [
@@ -58,6 +58,50 @@
             [10.12047, 54.37356],
             [10.1469, 54.39215],
             [10.1651, 54.42952]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de-flo2154.geojson",
+      "properties": {
+        "id": "de-flo2154.geojson",
+        "area": 11.97,
+        "resources": {
+          "de-flo2154": {
+            "id": "de-flo2154",
+            "type": "osm",
+            "locationSet": {"include": ["de-flo2154.geojson"]},
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "flo2154 on osm.org",
+              "description": "OpenStreetMap Profile for flo2154",
+              "url": "https://osm.org/user/flo2154"
+            },
+            "resolved": {
+              "name": "flo2154 on osm.org",
+              "url": "https://osm.org/user/flo2154",
+              "description": "OpenStreetMap Profile for flo2154",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/flo2154\">flo2154 on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/flo2154\">https://osm.org/user/flo2154</a>",
+              "descriptionHTML": "OpenStreetMap Profile for flo2154"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [11.79683, 48.1205],
+            [11.80635, 48.11786],
+            [11.81391, 48.09792],
+            [11.79623, 48.0849],
+            [11.77305, 48.09041],
+            [11.75563, 48.10737],
+            [11.76825, 48.11975],
+            [11.79683, 48.1205]
           ]
         ]
       }
