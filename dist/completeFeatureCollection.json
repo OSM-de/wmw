@@ -1,12 +1,56 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-04-03T18:09:42.328Z",
+    "generated": "2022-04-03T18:32:16.597Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "7f3579c67750a5b729bf90134478512f"
+    "hash": "37cc048e849c0e51412f494a509eab4f"
   },
   "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Feature",
+      "id": "at-gzin.geojson",
+      "properties": {
+        "id": "at-gzin.geojson",
+        "area": 50.71,
+        "resources": {
+          "at-gzin": {
+            "id": "at-gzin",
+            "type": "osm",
+            "locationSet": {"include": ["at-gzin.geojson"]},
+            "languageCodes": ["de"],
+            "strings": {
+              "name": "gzin on osm.org",
+              "description": "OpenStreetMap Profile for gzin",
+              "url": "https://osm.org/user/gzin"
+            },
+            "resolved": {
+              "name": "gzin on osm.org",
+              "url": "https://osm.org/user/gzin",
+              "description": "OpenStreetMap Profile for gzin",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/gzin\">gzin on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/gzin\">https://osm.org/user/gzin</a>",
+              "descriptionHTML": "OpenStreetMap Profile for gzin"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.90148, 48.21255],
+            [13.93787, 48.23588],
+            [13.99246, 48.23199],
+            [14.01512, 48.20889],
+            [14.0189, 48.17662],
+            [13.97049, 48.16334],
+            [13.92242, 48.17776],
+            [13.90148, 48.21255]
+          ]
+        ]
+      }
+    },
     {
       "type": "Feature",
       "id": "de-discostu36.geojson",

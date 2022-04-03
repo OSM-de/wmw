@@ -1,0 +1,11 @@
+{
+  "id": "at-gzin",
+  "type": "osm",
+  "locationSet": {"include": ["at-gzin.geojson"]},
+  "languageCodes": ["de"],
+  "strings": {
+    "name": "gzin on osm.org",
+    "description": "OpenStreetMap Profile for gzin",
+    "url": "https://osm.org/user/gzin"
+  }
+}

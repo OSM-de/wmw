@@ -1,6 +1,9 @@
 en:
   _communities: {}
   _defaults: {}
+  at-gzin:
+    name: gzin on osm.org
+    description: OpenStreetMap Profile for gzin
   de-Discostu36:
     name: Discostu36 on osm.org
     description: OpenStreetMap Profile for Discostu36
