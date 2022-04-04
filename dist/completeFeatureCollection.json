@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-04-04T04:52:22.832Z",
+    "generated": "2022-04-04T05:01:06.955Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "35176d7c7280e3f06d37ecfb8cedcb5c"
+    "hash": "5ec6bbc67ffd720297fb527f29b97fda"
   },
   "type": "FeatureCollection",
   "features": [
@@ -47,6 +47,48 @@
             [13.97049, 48.16334],
             [13.92242, 48.17776],
             [13.90148, 48.21255]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "au-tastrax.geojson",
+      "properties": {
+        "id": "au-tastrax.geojson",
+        "area": 641414.25,
+        "resources": {
+          "au-tastrax": {
+            "id": "au-tastrax",
+            "type": "osm",
+            "locationSet": {"include": ["au-tastrax.geojson"]},
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "tastrax on osm.org",
+              "description": "OpenStreetMap Profile for tastrax",
+              "url": "https://osm.org/user/tastrax"
+            },
+            "resolved": {
+              "name": "tastrax on osm.org",
+              "url": "https://osm.org/user/tastrax",
+              "description": "OpenStreetMap Profile for tastrax",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/tastrax\">tastrax on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/tastrax\">https://osm.org/user/tastrax</a>",
+              "descriptionHTML": "OpenStreetMap Profile for tastrax"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [142.99805, -39.3003],
+            [148.53516, -39.26628],
+            [159.60938, -54.85132],
+            [158.33496, -55.07837],
+            [144.8877, -43.58039],
+            [142.99805, -39.3003]
           ]
         ]
       }

@@ -4,6 +4,9 @@ en:
   at-gzin:
     name: gzin on osm.org
     description: OpenStreetMap Profile for gzin
+  au-tastrax:
+    name: tastrax on osm.org
+    description: OpenStreetMap Profile for tastrax
   be-juminet:
     name: juminet on osm.org
     description: OpenStreetMap Profile for juminet

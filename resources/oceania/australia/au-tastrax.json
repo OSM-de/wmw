@@ -1,0 +1,11 @@
+{
+  "id": "au-tastrax",
+  "type": "osm",
+  "locationSet": {"include": ["au-tastrax.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "tastrax on osm.org",
+    "description": "OpenStreetMap Profile for tastrax",
+    "url": "https://osm.org/user/tastrax"
+  }
+}
