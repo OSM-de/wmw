@@ -1,0 +1,11 @@
+{
+  "id": "fr-whatismoss",
+  "type": "osm",
+  "locationSet": {"include": ["fr-whatismoss.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "whatismoss on osm.org",
+    "description": "OpenStreetMap Profile for whatismoss",
+    "url": "https://osm.org/user/whatismoss"
+  }
+}

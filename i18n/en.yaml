@@ -43,6 +43,9 @@ en:
   fr-Lejun:
     name: Lejun on osm.org
     description: OpenStreetMap Profile for Lejun
+  fr-whatismoss:
+    name: whatismoss on osm.org
+    description: OpenStreetMap Profile for whatismoss
   uk-CjMalone:
     name: CjMalone on osm.org
     description: OpenStreetMap Profile for CjMalone
