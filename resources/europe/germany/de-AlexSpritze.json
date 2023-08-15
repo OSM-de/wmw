@@ -1,0 +1,11 @@
+{
+  "id": "de-AlexSpritze",
+  "type": "osm",
+  "locationSet": {"include": ["de-AlexSpritze.geojson"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "name": "AlexSpritze on osm.org",
+    "description": "OpenStreetMap Profile for AlexSpritze",
+    "url": "https://osm.org/user/AlexSpritze"
+  }
+}

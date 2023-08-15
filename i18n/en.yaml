@@ -10,6 +10,9 @@ en:
   be-juminet:
     name: juminet on osm.org
     description: OpenStreetMap Profile for juminet
+  de-AlexSpritze:
+    name: AlexSpritze on osm.org
+    description: OpenStreetMap Profile for AlexSpritze
   de-Discostu36:
     name: Discostu36 on osm.org
     description: OpenStreetMap Profile for Discostu36

@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "generated": "2022-04-04T05:01:06.955Z",
+    "generated": "2023-08-15T09:34:41.730Z",
     "url": "https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json",
-    "hash": "5ec6bbc67ffd720297fb527f29b97fda"
+    "hash": "3becf9458e2170a8184ec6d47447278d"
   },
   "type": "FeatureCollection",
   "features": [
@@ -159,6 +159,53 @@
             [5.75066, 49.81938]
           ]
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de-alexspritze.geojson",
+      "properties": {
+        "id": "de-alexspritze.geojson",
+        "area": 210.46,
+        "resources": {
+          "de-AlexSpritze": {
+            "id": "de-AlexSpritze",
+            "type": "osm",
+            "locationSet": {"include": ["de-AlexSpritze.geojson"]},
+            "languageCodes": ["de", "en"],
+            "strings": {
+              "name": "AlexSpritze on osm.org",
+              "description": "OpenStreetMap Profile for AlexSpritze",
+              "url": "https://osm.org/user/AlexSpritze"
+            },
+            "resolved": {
+              "name": "AlexSpritze on osm.org",
+              "url": "https://osm.org/user/AlexSpritze",
+              "description": "OpenStreetMap Profile for AlexSpritze",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.org/user/AlexSpritze\">AlexSpritze on osm.org</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.org/user/AlexSpritze\">https://osm.org/user/AlexSpritze</a>",
+              "descriptionHTML": "OpenStreetMap Profile for AlexSpritze"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [11.95718, 51.55475],
+            [11.99815, 51.55682],
+            [12.02546, 51.55108],
+            [12.06052, 51.53823],
+            [12.08192, 51.51894],
+            [12.07233, 51.4401],
+            [11.97453, 51.39706],
+            [11.89149, 51.40719],
+            [11.86528, 51.46793],
+            [11.86934, 51.5233],
+            [11.95718, 51.55475]
+          ]
+        ],
+        "type": "Polygon"
       }
     },
     {
